@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/fishing-app/static/js/main.506d3fcf.js",
+    "main.js": "/fishing-app/static/js/main.98255b5f.js",
     "static/media/Hero_Image.jpg": "/fishing-app/static/media/Hero_Image.c3ccdb096148262fc7d0.jpg",
     "index.html": "/fishing-app/index.html",
-    "main.506d3fcf.js.map": "/fishing-app/static/js/main.506d3fcf.js.map"
+    "main.98255b5f.js.map": "/fishing-app/static/js/main.98255b5f.js.map"
   },
   "entrypoints": [
-    "static/js/main.506d3fcf.js"
+    "static/js/main.98255b5f.js"
   ]
 }
